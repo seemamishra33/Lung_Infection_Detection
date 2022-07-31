@@ -1,0 +1,97 @@
+{
+  "build": "h1e26fe3_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "giflib >=5.2.1,<5.3.0a0",
+    "jpeg >=9e,<10a",
+    "libpng >=1.6.37,<1.7.0a0",
+    "libtiff >=4.4.0,<5.0a0",
+    "libwebp-base 1.2.3.*",
+    "libwebp-base >=1.2.3,<2.0a0"
+  ],
+  "extracted_package_dir": "/Users/seemamishra/miniforge3/pkgs/libwebp-1.2.3-h1e26fe3_1",
+  "features": "",
+  "files": [
+    "bin/cwebp",
+    "bin/dwebp",
+    "bin/gif2webp",
+    "bin/img2webp",
+    "bin/webpinfo",
+    "bin/webpmux",
+    "share/man/man1/gif2webp.1"
+  ],
+  "fn": "libwebp-1.2.3-h1e26fe3_1.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/seemamishra/miniforge3/pkgs/libwebp-1.2.3-h1e26fe3_1",
+    "type": 1
+  },
+  "md5": "a96d9b8fc40dba49fbfa4566418804cc",
+  "name": "libwebp",
+  "package_tarball_full_path": "/Users/seemamishra/miniforge3/pkgs/libwebp-1.2.3-h1e26fe3_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/cwebp",
+        "path_type": "hardlink",
+        "sha256": "0b0803f1be5e4638cfb91553afee98195bbea0aa000fd855d9efa6a46ed1aa41",
+        "sha256_in_prefix": "0b0803f1be5e4638cfb91553afee98195bbea0aa000fd855d9efa6a46ed1aa41",
+        "size_in_bytes": 110656
+      },
+      {
+        "_path": "bin/dwebp",
+        "path_type": "hardlink",
+        "sha256": "a23346cc73136e58f8e2fc4846fb460ecc1e4103fdbcfc7dea4daa07f60c4af3",
+        "sha256_in_prefix": "a23346cc73136e58f8e2fc4846fb460ecc1e4103fdbcfc7dea4daa07f60c4af3",
+        "size_in_bytes": 72064
+      },
+      {
+        "_path": "bin/gif2webp",
+        "path_type": "hardlink",
+        "sha256": "10e6925d2a1dc6c883cf2e02ac48e4db5ff27b51931678d931f201086699cd78",
+        "sha256_in_prefix": "10e6925d2a1dc6c883cf2e02ac48e4db5ff27b51931678d931f201086699cd78",
+        "size_in_bytes": 72336
+      },
+      {
+        "_path": "bin/img2webp",
+        "path_type": "hardlink",
+        "sha256": "f2d5119d0131759a0adf58012d1100f5dfb30dcf6c0c07a85e56d701ac2aac50",
+        "sha256_in_prefix": "f2d5119d0131759a0adf58012d1100f5dfb30dcf6c0c07a85e56d701ac2aac50",
+        "size_in_bytes": 93488
+      },
+      {
+        "_path": "bin/webpinfo",
+        "path_type": "hardlink",
+        "sha256": "da49ac388cbce0de1888ca984ccedec48698f5792dac11a5e96bace1be4f3f1c",
+        "sha256_in_prefix": "da49ac388cbce0de1888ca984ccedec48698f5792dac11a5e96bace1be4f3f1c",
+        "size_in_bytes": 69456
+      },
+      {
+        "_path": "bin/webpmux",
+        "path_type": "hardlink",
+        "sha256": "362fd94fc2c14362baf3e705120c076ce90c4f041f1786d2d324641ae23b48e2",
+        "sha256_in_prefix": "362fd94fc2c14362baf3e705120c076ce90c4f041f1786d2d324641ae23b48e2",
+        "size_in_bytes": 70864
+      },
+      {
+        "_path": "share/man/man1/gif2webp.1",
+        "path_type": "hardlink",
+        "sha256": "19c208659f284d4c815849df21b046b3040c3059fc8d8b67b1fa6ee2d242c0ab",
+        "sha256_in_prefix": "19c208659f284d4c815849df21b046b3040c3059fc8d8b67b1fa6ee2d242c0ab",
+        "size_in_bytes": 5564
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9b092f3a243454094fdc40f75317b9c88859f5619fba31380a57881850e5b56a",
+  "size": 86110,
+  "subdir": "osx-arm64",
+  "timestamp": 1658518032986,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/libwebp-1.2.3-h1e26fe3_1.tar.bz2",
+  "version": "1.2.3"
+}

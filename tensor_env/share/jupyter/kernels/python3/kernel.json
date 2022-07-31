@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/Users/seemamishra/Desktop/PG AIML/Portfolio_Projects/Lung Infection Detection/tensor_env/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
