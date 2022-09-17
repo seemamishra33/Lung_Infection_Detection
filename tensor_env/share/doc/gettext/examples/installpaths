@@ -1,0 +1,9 @@
+prefix='/Users/seemamishra/Desktop/PG AIML/Portfolio_Projects/Lung Infection Detection/tensor_env'
+exec_prefix="${prefix}"
+datarootdir="${prefix}/share"
+datadir="${datarootdir}"
+docdir="${datarootdir}/doc/gettext"
+ACLOCALDIR="${datadir}/aclocal"
+GETTEXTSRCDIR="${datarootdir}/gettext"
+GETTEXTSRCPODIR="${datarootdir}/gettext/po"
+EXAMPLESCONFIGDIR="${datarootdir}/doc/gettext/examples/config"

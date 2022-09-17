@@ -1,0 +1,37 @@
+{
+  "build": "py310h69fb684_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "libopencv 4.6.0 py310ha0bc457_2",
+    "numpy >=1.21.6,<2.0a0",
+    "python >=3.10,<3.11.0a0",
+    "python_abi 3.10.* *_cp310"
+  ],
+  "extracted_package_dir": "/Users/seemamishra/miniforge3/pkgs/py-opencv-4.6.0-py310h69fb684_2",
+  "features": "",
+  "files": [],
+  "fn": "py-opencv-4.6.0-py310h69fb684_2.tar.bz2",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "/Users/seemamishra/miniforge3/pkgs/py-opencv-4.6.0-py310h69fb684_2",
+    "type": 1
+  },
+  "md5": "5695a0e228e9526bd4f964c2bd3293de",
+  "name": "py-opencv",
+  "package_tarball_full_path": "/Users/seemamishra/miniforge3/pkgs/py-opencv-4.6.0-py310h69fb684_2.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7123c34cb4d6cef38b3f8a1936e4076b26addaf49b7110edb2900766d2641315",
+  "size": 1154628,
+  "subdir": "osx-arm64",
+  "timestamp": 1658897044526,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/py-opencv-4.6.0-py310h69fb684_2.tar.bz2",
+  "version": "4.6.0"
+}
