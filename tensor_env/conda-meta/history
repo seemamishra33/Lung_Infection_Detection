@@ -237,3 +237,13 @@
 +conda-forge/osx-arm64::x264-1!164.3095-h57fd34a_2
 +conda-forge/osx-arm64::x265-3.5-hbc6ce65_3
 # update specs: ['opencv']
+==> 2022-09-17 11:06:26 <==
+# cmd: /Users/seemamishra/miniforge3/bin/conda install pip
+# conda version: 4.12.0
+-conda-forge/noarch::certifi-2022.6.15.1-pyhd8ed1ab_0
+-conda-forge/noarch::pip-22.2.1-pyhd8ed1ab_0
+-conda-forge/osx-arm64::ca-certificates-2022.6.15.2-h4653dfc_0
++conda-forge/noarch::certifi-2022.9.14-pyhd8ed1ab_0
++conda-forge/noarch::pip-22.2.2-pyhd8ed1ab_0
++conda-forge/osx-arm64::ca-certificates-2022.9.14-h4653dfc_0
+# update specs: ['pip']

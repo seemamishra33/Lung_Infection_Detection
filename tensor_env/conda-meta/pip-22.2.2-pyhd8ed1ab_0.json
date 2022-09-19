@@ -8,15 +8,15 @@
     "setuptools",
     "wheel"
   ],
-  "extracted_package_dir": "/Users/seemamishra/miniforge3/pkgs/pip-22.2.1-pyhd8ed1ab_0",
+  "extracted_package_dir": "/Users/seemamishra/miniforge3/pkgs/pip-22.2.2-pyhd8ed1ab_0",
   "features": "",
   "files": [
-    "lib/python3.10/site-packages/pip-22.2.1-py3.10.egg-info/PKG-INFO",
-    "lib/python3.10/site-packages/pip-22.2.1-py3.10.egg-info/SOURCES.txt",
-    "lib/python3.10/site-packages/pip-22.2.1-py3.10.egg-info/dependency_links.txt",
-    "lib/python3.10/site-packages/pip-22.2.1-py3.10.egg-info/entry_points.txt",
-    "lib/python3.10/site-packages/pip-22.2.1-py3.10.egg-info/not-zip-safe",
-    "lib/python3.10/site-packages/pip-22.2.1-py3.10.egg-info/top_level.txt",
+    "lib/python3.10/site-packages/pip-22.2.2-py3.10.egg-info/PKG-INFO",
+    "lib/python3.10/site-packages/pip-22.2.2-py3.10.egg-info/SOURCES.txt",
+    "lib/python3.10/site-packages/pip-22.2.2-py3.10.egg-info/dependency_links.txt",
+    "lib/python3.10/site-packages/pip-22.2.2-py3.10.egg-info/entry_points.txt",
+    "lib/python3.10/site-packages/pip-22.2.2-py3.10.egg-info/not-zip-safe",
+    "lib/python3.10/site-packages/pip-22.2.2-py3.10.egg-info/top_level.txt",
     "lib/python3.10/site-packages/pip/__init__.py",
     "lib/python3.10/site-packages/pip/__main__.py",
     "lib/python3.10/site-packages/pip/__pip-runner__.py",
@@ -1001,57 +1001,57 @@
     "bin/pip",
     "bin/pip3"
   ],
-  "fn": "pip-22.2.1-pyhd8ed1ab_0.tar.bz2",
+  "fn": "pip-22.2.2-pyhd8ed1ab_0.tar.bz2",
   "license": "MIT",
   "license_family": "MIT",
   "link": {
-    "source": "/Users/seemamishra/miniforge3/pkgs/pip-22.2.1-pyhd8ed1ab_0",
+    "source": "/Users/seemamishra/miniforge3/pkgs/pip-22.2.2-pyhd8ed1ab_0",
     "type": 1
   },
-  "md5": "0cbcd1fa7291fe72dc8f848907510498",
+  "md5": "0b43abe4d3ee93e82742d37def53a836",
   "name": "pip",
   "noarch": "python",
-  "package_tarball_full_path": "/Users/seemamishra/miniforge3/pkgs/pip-22.2.1-pyhd8ed1ab_0.tar.bz2",
+  "package_tarball_full_path": "/Users/seemamishra/miniforge3/pkgs/pip-22.2.2-pyhd8ed1ab_0.tar.bz2",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
       {
-        "_path": "site-packages/pip-22.2.1-py3.10.egg-info/PKG-INFO",
+        "_path": "site-packages/pip-22.2.2-py3.10.egg-info/PKG-INFO",
         "path_type": "hardlink",
-        "sha256": "b218fd5d6e0a1bd304a78dcf36ed15a8c68daf475b2019e4d1200bab284dbba4",
-        "sha256_in_prefix": "b218fd5d6e0a1bd304a78dcf36ed15a8c68daf475b2019e4d1200bab284dbba4",
+        "sha256": "d531cd928047a1c66d550f128b1247d76c2e4971c92106f856eed1cf31237ca4",
+        "sha256_in_prefix": "d531cd928047a1c66d550f128b1247d76c2e4971c92106f856eed1cf31237ca4",
         "size_in_bytes": 4197
       },
       {
-        "_path": "site-packages/pip-22.2.1-py3.10.egg-info/SOURCES.txt",
+        "_path": "site-packages/pip-22.2.2-py3.10.egg-info/SOURCES.txt",
         "path_type": "hardlink",
         "sha256": "b80d530d265972065b127bee4ef526a2983dc47c245c39a66f0e9ef82e3e5f0f",
         "sha256_in_prefix": "b80d530d265972065b127bee4ef526a2983dc47c245c39a66f0e9ef82e3e5f0f",
         "size_in_bytes": 23260
       },
       {
-        "_path": "site-packages/pip-22.2.1-py3.10.egg-info/dependency_links.txt",
+        "_path": "site-packages/pip-22.2.2-py3.10.egg-info/dependency_links.txt",
         "path_type": "hardlink",
         "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
         "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
         "size_in_bytes": 1
       },
       {
-        "_path": "site-packages/pip-22.2.1-py3.10.egg-info/entry_points.txt",
+        "_path": "site-packages/pip-22.2.2-py3.10.egg-info/entry_points.txt",
         "path_type": "hardlink",
         "sha256": "ca764dd7fef4eff2f6dce6bcfcee4b3b112871c8f59c36b8c474f981a95f37ba",
         "sha256_in_prefix": "ca764dd7fef4eff2f6dce6bcfcee4b3b112871c8f59c36b8c474f981a95f37ba",
         "size_in_bytes": 125
       },
       {
-        "_path": "site-packages/pip-22.2.1-py3.10.egg-info/not-zip-safe",
+        "_path": "site-packages/pip-22.2.2-py3.10.egg-info/not-zip-safe",
         "path_type": "hardlink",
         "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
         "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
         "size_in_bytes": 1
       },
       {
-        "_path": "site-packages/pip-22.2.1-py3.10.egg-info/top_level.txt",
+        "_path": "site-packages/pip-22.2.2-py3.10.egg-info/top_level.txt",
         "path_type": "hardlink",
         "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
         "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
@@ -1060,8 +1060,8 @@
       {
         "_path": "site-packages/pip/__init__.py",
         "path_type": "hardlink",
-        "sha256": "4e72b4a967b0ca98b0339b080cd61fcb8d385e7a469db7a65e2107f5cc8f4d68",
-        "sha256_in_prefix": "4e72b4a967b0ca98b0339b080cd61fcb8d385e7a469db7a65e2107f5cc8f4d68",
+        "sha256": "44a275d36f85f2277d90c74c89cf63ecc0f63afb4ae823f408ad44ae5e8fb725",
+        "sha256_in_prefix": "44a275d36f85f2277d90c74c89cf63ecc0f63afb4ae823f408ad44ae5e8fb725",
         "size_in_bytes": 357
       },
       {
@@ -1074,9 +1074,9 @@
       {
         "_path": "site-packages/pip/__pip-runner__.py",
         "path_type": "hardlink",
-        "sha256": "f5c639c23c35f72a4bedfd52b4762307d51dd96a90bc47329e66b784ea1e2115",
-        "sha256_in_prefix": "f5c639c23c35f72a4bedfd52b4762307d51dd96a90bc47329e66b784ea1e2115",
-        "size_in_bytes": 1085
+        "sha256": "ed2fe3ee2c110d66fd99a85a6848952fa7dcb7a7d6a2e07657c5bf4bc158d0c1",
+        "sha256_in_prefix": "ed2fe3ee2c110d66fd99a85a6848952fa7dcb7a7d6a2e07657c5bf4bc158d0c1",
+        "size_in_bytes": 1037
       },
       {
         "_path": "site-packages/pip/_internal/__init__.py",
@@ -1368,9 +1368,9 @@
       {
         "_path": "site-packages/pip/_internal/index/collector.py",
         "path_type": "hardlink",
-        "sha256": "5020766d84086c857820871358aedc7f2f2262974e21c0e234b1850dc2fa73e0",
-        "sha256_in_prefix": "5020766d84086c857820871358aedc7f2f2262974e21c0e234b1850dc2fa73e0",
-        "size_in_bytes": 20301
+        "sha256": "c0b46ee6af5aee85403004ec8353b83fd513d637e30ba29ac7061fdc6588ed69",
+        "sha256_in_prefix": "c0b46ee6af5aee85403004ec8353b83fd513d637e30ba29ac7061fdc6588ed69",
+        "size_in_bytes": 20316
       },
       {
         "_path": "site-packages/pip/_internal/index/package_finder.py",
@@ -1389,16 +1389,16 @@
       {
         "_path": "site-packages/pip/_internal/locations/__init__.py",
         "path_type": "hardlink",
-        "sha256": "a716f2b887b0d3e64c1ecf9a19f520acd9585dd1d3aaf1098ff98cdd45a21f55",
-        "sha256_in_prefix": "a716f2b887b0d3e64c1ecf9a19f520acd9585dd1d3aaf1098ff98cdd45a21f55",
-        "size_in_bytes": 17461
+        "sha256": "42107e63a4cdc9a534d747229a6d93e303399687bca117632f027ac66b0673e9",
+        "sha256_in_prefix": "42107e63a4cdc9a534d747229a6d93e303399687bca117632f027ac66b0673e9",
+        "size_in_bytes": 17552
       },
       {
         "_path": "site-packages/pip/_internal/locations/_distutils.py",
         "path_type": "hardlink",
-        "sha256": "e9a60b253e3be68b3dd00409d30e98b6025c60df3a69aeb42dddbbabcae444af",
-        "sha256_in_prefix": "e9a60b253e3be68b3dd00409d30e98b6025c60df3a69aeb42dddbbabcae444af",
-        "size_in_bytes": 6254
+        "sha256": "01425ca10f3ccdf62cf55e7b1ac0656e1a82a72c71b0094b575b7aa2abf9e577",
+        "sha256_in_prefix": "01425ca10f3ccdf62cf55e7b1ac0656e1a82a72c71b0094b575b7aa2abf9e577",
+        "size_in_bytes": 6272
       },
       {
         "_path": "site-packages/pip/_internal/locations/_sysconfig.py",
@@ -1921,9 +1921,9 @@
       {
         "_path": "site-packages/pip/_internal/utils/deprecation.py",
         "path_type": "hardlink",
-        "sha256": "3b3cea9e797d908d28416e9ed8f9b773ebf42193f2ea018446f8831b8e5399b6",
-        "sha256_in_prefix": "3b3cea9e797d908d28416e9ed8f9b773ebf42193f2ea018446f8831b8e5399b6",
-        "size_in_bytes": 3638
+        "sha256": "34aa3c56a2e2a09e279d75c6996e0a75ab3117dd04147919687797d5f4f4f02f",
+        "sha256_in_prefix": "34aa3c56a2e2a09e279d75c6996e0a75ab3117dd04147919687797d5f4f4f02f",
+        "size_in_bytes": 3627
       },
       {
         "_path": "site-packages/pip/_internal/utils/direct_url_helpers.py",
@@ -6477,12 +6477,12 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
-  "sha256": "6893304387cef98e74bf6558943c3ae1eb25754aa94b43e2c429af5b437750bd",
-  "size": 1507359,
+  "requested_spec": "pip",
+  "sha256": "507ae896a2f9ccc7bbedc2f7fd10dc2ac666575769b55b5e94ca44b86db193e0",
+  "size": 1566504,
   "subdir": "noarch",
-  "timestamp": 1658957880982,
+  "timestamp": 1659575601683,
   "track_features": "",
-  "url": "https://conda.anaconda.org/conda-forge/noarch/pip-22.2.1-pyhd8ed1ab_0.tar.bz2",
-  "version": "22.2.1"
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pip-22.2.2-pyhd8ed1ab_0.tar.bz2",
+  "version": "22.2.2"
 }
