@@ -6,15 +6,15 @@
   "depends": [
     "python >=3.7"
   ],
-  "extracted_package_dir": "/Users/seemamishra/miniforge3/pkgs/certifi-2022.9.14-pyhd8ed1ab_0",
+  "extracted_package_dir": "/Users/seemamishra/miniforge3/pkgs/certifi-2022.9.24-pyhd8ed1ab_0",
   "features": "",
   "files": [
-    "lib/python3.10/site-packages/certifi-2022.9.14-py3.10.egg-info/PKG-INFO",
-    "lib/python3.10/site-packages/certifi-2022.9.14-py3.10.egg-info/SOURCES.txt",
-    "lib/python3.10/site-packages/certifi-2022.9.14-py3.10.egg-info/dependency_links.txt",
-    "lib/python3.10/site-packages/certifi-2022.9.14-py3.10.egg-info/installed-files.txt",
-    "lib/python3.10/site-packages/certifi-2022.9.14-py3.10.egg-info/not-zip-safe",
-    "lib/python3.10/site-packages/certifi-2022.9.14-py3.10.egg-info/top_level.txt",
+    "lib/python3.10/site-packages/certifi-2022.9.24-py3.10.egg-info/PKG-INFO",
+    "lib/python3.10/site-packages/certifi-2022.9.24-py3.10.egg-info/SOURCES.txt",
+    "lib/python3.10/site-packages/certifi-2022.9.24-py3.10.egg-info/dependency_links.txt",
+    "lib/python3.10/site-packages/certifi-2022.9.24-py3.10.egg-info/installed-files.txt",
+    "lib/python3.10/site-packages/certifi-2022.9.24-py3.10.egg-info/not-zip-safe",
+    "lib/python3.10/site-packages/certifi-2022.9.24-py3.10.egg-info/top_level.txt",
     "lib/python3.10/site-packages/certifi/__init__.py",
     "lib/python3.10/site-packages/certifi/__main__.py",
     "lib/python3.10/site-packages/certifi/cacert.pem",
@@ -24,56 +24,56 @@
     "lib/python3.10/site-packages/certifi/__pycache__/__main__.cpython-310.pyc",
     "lib/python3.10/site-packages/certifi/__pycache__/core.cpython-310.pyc"
   ],
-  "fn": "certifi-2022.9.14-pyhd8ed1ab_0.tar.bz2",
+  "fn": "certifi-2022.9.24-pyhd8ed1ab_0.tar.bz2",
   "license": "ISC",
   "link": {
-    "source": "/Users/seemamishra/miniforge3/pkgs/certifi-2022.9.14-pyhd8ed1ab_0",
+    "source": "/Users/seemamishra/miniforge3/pkgs/certifi-2022.9.24-pyhd8ed1ab_0",
     "type": 1
   },
-  "md5": "963e8ceccba45b5cf15f33906d5a20a1",
+  "md5": "f66309b099374af91369e67e84af397d",
   "name": "certifi",
   "noarch": "python",
-  "package_tarball_full_path": "/Users/seemamishra/miniforge3/pkgs/certifi-2022.9.14-pyhd8ed1ab_0.tar.bz2",
+  "package_tarball_full_path": "/Users/seemamishra/miniforge3/pkgs/certifi-2022.9.24-pyhd8ed1ab_0.tar.bz2",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
       {
-        "_path": "site-packages/certifi-2022.9.14-py3.10.egg-info/PKG-INFO",
+        "_path": "site-packages/certifi-2022.9.24-py3.10.egg-info/PKG-INFO",
         "path_type": "hardlink",
-        "sha256": "b40606146f3f83cba4a5901c9fb9fb1f50ef0c7826a8bf4cd500c001650e6d3f",
-        "sha256_in_prefix": "b40606146f3f83cba4a5901c9fb9fb1f50ef0c7826a8bf4cd500c001650e6d3f",
+        "sha256": "f8dc44db75e1c29e7417b9b7e0f351b0a9385e7240ddbc2b6d2450acce7d5427",
+        "sha256_in_prefix": "f8dc44db75e1c29e7417b9b7e0f351b0a9385e7240ddbc2b6d2450acce7d5427",
         "size_in_bytes": 3340
       },
       {
-        "_path": "site-packages/certifi-2022.9.14-py3.10.egg-info/SOURCES.txt",
+        "_path": "site-packages/certifi-2022.9.24-py3.10.egg-info/SOURCES.txt",
         "path_type": "hardlink",
         "sha256": "6f683e249a658689e522aff92a2a3100715799928a5ef400440f03d3a33281d1",
         "sha256_in_prefix": "6f683e249a658689e522aff92a2a3100715799928a5ef400440f03d3a33281d1",
         "size_in_bytes": 295
       },
       {
-        "_path": "site-packages/certifi-2022.9.14-py3.10.egg-info/dependency_links.txt",
+        "_path": "site-packages/certifi-2022.9.24-py3.10.egg-info/dependency_links.txt",
         "path_type": "hardlink",
         "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
         "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
         "size_in_bytes": 1
       },
       {
-        "_path": "site-packages/certifi-2022.9.14-py3.10.egg-info/installed-files.txt",
+        "_path": "site-packages/certifi-2022.9.24-py3.10.egg-info/installed-files.txt",
         "path_type": "hardlink",
         "sha256": "857c45145cc388abb6b23588eb8e082d021b9fbffa2197573c13fae4cdc4c233",
         "sha256_in_prefix": "857c45145cc388abb6b23588eb8e082d021b9fbffa2197573c13fae4cdc4c233",
         "size_in_bytes": 316
       },
       {
-        "_path": "site-packages/certifi-2022.9.14-py3.10.egg-info/not-zip-safe",
+        "_path": "site-packages/certifi-2022.9.24-py3.10.egg-info/not-zip-safe",
         "path_type": "hardlink",
         "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
         "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
         "size_in_bytes": 1
       },
       {
-        "_path": "site-packages/certifi-2022.9.14-py3.10.egg-info/top_level.txt",
+        "_path": "site-packages/certifi-2022.9.24-py3.10.egg-info/top_level.txt",
         "path_type": "hardlink",
         "sha256": "28cbb8bd409fb232eb90f6d235d81d7a44bea552730402453bffe723c345ebe5",
         "sha256_in_prefix": "28cbb8bd409fb232eb90f6d235d81d7a44bea552730402453bffe723c345ebe5",
@@ -82,8 +82,8 @@
       {
         "_path": "site-packages/certifi/__init__.py",
         "path_type": "hardlink",
-        "sha256": "15ebf53ec1757abd8400906f046d8898ba7427467c5d38c22a15fe5962c16801",
-        "sha256_in_prefix": "15ebf53ec1757abd8400906f046d8898ba7427467c5d38c22a15fe5962c16801",
+        "sha256": "96e0e3206c434ab43d3b4ced85dcf92e7b74ebd67fede47518811e7c469ff98b",
+        "sha256_in_prefix": "96e0e3206c434ab43d3b4ced85dcf92e7b74ebd67fede47518811e7c469ff98b",
         "size_in_bytes": 94
       },
       {
@@ -96,9 +96,9 @@
       {
         "_path": "site-packages/certifi/cacert.pem",
         "path_type": "hardlink",
-        "sha256": "fd3d97554bdaed3f35967c3e2f0e2ff12a7466ec83d050967c791bab60592499",
-        "sha256_in_prefix": "fd3d97554bdaed3f35967c3e2f0e2ff12a7466ec83d050967c791bab60592499",
-        "size_in_bytes": 289012
+        "sha256": "de5f02716b7fa8be36d37d2b1a2783dd22ee7c80855f46d8b4684397f11754f2",
+        "sha256_in_prefix": "de5f02716b7fa8be36d37d2b1a2783dd22ee7c80855f46d8b4684397f11754f2",
+        "size_in_bytes": 286370
       },
       {
         "_path": "site-packages/certifi/core.py",
@@ -130,11 +130,11 @@
     "paths_version": 1
   },
   "requested_spec": "None",
-  "sha256": "9da8b43e2bcd47bc43015e85af96dd44394fbd51eb9b4fae61ec6e082c404231",
-  "size": 160078,
+  "sha256": "52e7459b3c457e888e2b6a4e6d13ab7f8675999bc12d20a83e34f12591a8771a",
+  "size": 158709,
   "subdir": "noarch",
-  "timestamp": 1663200565359,
+  "timestamp": 1664051606056,
   "track_features": "",
-  "url": "https://conda.anaconda.org/conda-forge/noarch/certifi-2022.9.14-pyhd8ed1ab_0.tar.bz2",
-  "version": "2022.9.14"
+  "url": "https://conda.anaconda.org/conda-forge/noarch/certifi-2022.9.24-pyhd8ed1ab_0.tar.bz2",
+  "version": "2022.9.24"
 }
